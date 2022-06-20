@@ -66,17 +66,6 @@
         }
       },
       formatUpdated: '{DD}.{MM}.{YYYY} {HH}:{mm}',
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            var url = 'https://reher1.github.io/informatikschulbuch/anleitungen/' + vm.route.file
-            var editHtml = '[Edit on GitHub](' + url + ')\n'
-            return "<p style='text-align:right;'>{docsify-updated}<p>\n\n" + html
-              + '\n\n----\n'
-              + editHtml
-          })
-        }
-      ],
     }
   </script>
   <script src="js/docsify.min.js"></script>
