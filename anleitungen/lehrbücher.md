@@ -1,7 +1,7 @@
 # OER Lehrbücher mit Markdown und Git erstellen
 *[Quelle: Artikel von Julian Dorn](https://blog.wi-wissen.de/post/oer-lehrbuecher-mit-markdown-und-git-erstellen), 19. Januar 2019*
 
-In diesem Artikel erkläre ich wie ich mit überschaubaren Aufwand meie Lehrbücher auf [buch.informatik.cc](http://buch.informatik.cc/) erstelle.
+In diesem Artikel erkläre ich, wie ich mit überschaubaren Aufwand meine Lehrbücher auf [buch.informatik.cc](http://buch.informatik.cc/) erstelle.
 
 Open Educational Resources sind freie Lern- und Lehrmaterialien, welche in Deutschland zumeist unter einer [Creative Commons](https://de.wikipedia.org/wiki/Creative_Commons) Lizenz veröffentlicht werden. Dafür gibt es verschiedene Bausteine :
 
